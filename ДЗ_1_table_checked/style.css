@@ -1,0 +1,54 @@
+*{
+	font-family: Tahoma;
+}
+
+.tabl {
+	margin: auto;
+	border: 1px solid white;
+}
+
+.pic {
+	text-align: center;
+}
+
+.info {
+	text-align: left;
+	color: grey;
+	font-size: 13.5px;
+}
+img {
+	border: 1px solid grey;
+}
+
+.list {
+	font-size: 12px;
+	line-height: 1.5;
+}
+
+.phone {
+	font-size: 12px;
+	padding-left: 35px;
+}
+
+.profile {
+	font-size: 12px;
+	padding-left: 35px;
+	font-style: italic;
+	font-weight: bold;
+	
+}
+
+.feedback {
+	font-size: 12px;
+	padding-left: 35px;
+}
+
+.row {
+
+	border-bottom-color: lightgrey;
+}
+
+.padding {
+	padding-bottom: 17px;
+}
+
